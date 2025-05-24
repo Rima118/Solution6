@@ -9,6 +9,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskProject.Common", "TaskP
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskProject.DAL", "TaskProject.DAL\TaskProject.DAL.csproj", "{33029F35-601B-49B6-95BB-B74F5C7B395B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageCaptionGenerator", "..\..\..\Desktop\WebApplication20\WebApplication20\ImageCaptionGenerator.csproj", "{7877CE0B-E919-4542-930D-BF653E8ADAFB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageCaptionGenerator_DAL", "..\..\..\Desktop\WebApplication20\DAL\ImageCaptionGenerator_DAL.csproj", "{17F2B5F7-17AD-42B9-8269-6C2F6AB86AB9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageCaptionGenerator_Common", "..\..\..\Desktop\WebApplication20\common\ImageCaptionGenerator_Common.csproj", "{1196246F-D3C1-40F5-806C-F2F2BFF37299}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +33,18 @@ Global
 		{33029F35-601B-49B6-95BB-B74F5C7B395B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{33029F35-601B-49B6-95BB-B74F5C7B395B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{33029F35-601B-49B6-95BB-B74F5C7B395B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7877CE0B-E919-4542-930D-BF653E8ADAFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7877CE0B-E919-4542-930D-BF653E8ADAFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7877CE0B-E919-4542-930D-BF653E8ADAFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7877CE0B-E919-4542-930D-BF653E8ADAFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17F2B5F7-17AD-42B9-8269-6C2F6AB86AB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17F2B5F7-17AD-42B9-8269-6C2F6AB86AB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17F2B5F7-17AD-42B9-8269-6C2F6AB86AB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17F2B5F7-17AD-42B9-8269-6C2F6AB86AB9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1196246F-D3C1-40F5-806C-F2F2BFF37299}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1196246F-D3C1-40F5-806C-F2F2BFF37299}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1196246F-D3C1-40F5-806C-F2F2BFF37299}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1196246F-D3C1-40F5-806C-F2F2BFF37299}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
